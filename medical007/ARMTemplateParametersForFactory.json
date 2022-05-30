@@ -7,6 +7,9 @@
 		},
 		"AzureDatabricks1_accessToken": {
 			"value": ""
+		},
+		"trigger1_properties_typeProperties_scope": {
+			"value": "/subscriptions/18f455f0-45e5-4c9c-82c5-78db853563cb/resourceGroups/streamlit_app007/providers/Microsoft.Storage/storageAccounts/medicalembeddingsabhi007"
 		}
 	}
 }

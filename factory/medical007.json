@@ -1,0 +1,9 @@
+{
+	"name": "medical007",
+	"location": "centralus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "d6d38788-e19c-4fb4-b3f7-6bb21f8ab6aa",
+		"tenantId": "b44aa71f-aee2-43e8-bfd9-77db6ecd591e"
+	}
+}
